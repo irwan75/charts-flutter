@@ -21,7 +21,7 @@
     },
     {
       "name": "charts_common",
-      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dev/charts_common-0.12.0",
+      "rootUri": "file:///Users/apple/.pub-cache/git/charts-common-f55a63a4f932eb80bfaa3f806d500ab4ee5881ae/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -164,7 +164,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-05-11T23:47:41.332580Z",
+  "generated": "2023-05-12T00:12:24.016897Z",
   "generator": "pub",
   "generatorVersion": "3.0.0"
 }

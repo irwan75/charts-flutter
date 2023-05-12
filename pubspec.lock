@@ -116,10 +116,11 @@ packages:
   charts_common:
     dependency: "direct main"
     description:
-      name: charts_common
-      sha256: "7b8922f9b0d9b134122756a787dab1c3946ae4f3fc5022ff323ba0014998ea02"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: f55a63a4f932eb80bfaa3f806d500ab4ee5881ae
+      url: "https://github.com/irwan75/charts-common.git"
+    source: git
     version: "0.12.0"
   checked_yaml:
     dependency: transitive
@@ -263,10 +264,10 @@ packages:
     dependency: "direct main"
     description:
       name: intl
-      sha256: "910f85bce16fb5c6f614e117efa303e85a1731bb0081edf3604a2ae6e9a3cc91"
+      sha256: a3715e3bc90294e971cb7dc063fbf3cd9ee0ebf8604ffeafabd9e6f16abbdbe6
       url: "https://pub.dev"
     source: hosted
-    version: "0.17.0"
+    version: "0.18.0"
   io:
     dependency: transitive
     description:
